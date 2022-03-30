@@ -66,7 +66,7 @@
                 <button type="submit" name="subscribe">Subscribe</button>
             </div>
         </form>
-        <div class="text">We do not share your information.</div>
+        <div class="text">We do not share your information. </div>
     </div>
 
 </body>

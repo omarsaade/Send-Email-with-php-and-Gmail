@@ -125,7 +125,7 @@ form .btn:hover .layer{
   left: 0;
 }
 form .btn button{
-  z-index: 1;
+  z-index: 2;
   position: relative;
   background: none;
   padding: 0px!important;
